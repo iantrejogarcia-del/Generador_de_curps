@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">curp_ian</string>
+    <string-array name="spent">
+        <item>AGUASCALIENTES</item>
+        <item>BAJA CALIFORNIA</item>
+        <item>BAJA CALIFORNIA SUR</item>
+        <item>CAMPECHE</item>
+        <item>COAHUILA</item>
+        <item>COLIMA</item>
+        <item>CHIAPAS</item>
+        <item>CHIHUAHUA</item>
+        <item> DISTRITO FEDERAL</item>
+        <item>DURANGO</item>
+        <item>GUANAJUATO</item>
+        <item>GUERRERO</item>
+        <item>HIDALGO</item>
+        <item>JALISCO</item>
+        <item>MÉXICO</item>
+        <item>MICHOACÁN</item>
+        <item>MORELOS</item>
+        <item>NAYARIT</item>
+        <item>NUEVO LEÓN</item>
+        <item>OAXACA</item>
+        <item>PUEBLA</item>
+        <item>QUERÉTARO</item>
+        <item>QUINTANA ROO</item>
+        <item>SAN LUIS POTOSÍ</item>
+        <item>SINALOA</item>
+        <item>SONORA</item>
+        <item>TABASCO</item>
+        <item>TAMAULIPAS</item>
+        <item>TLAXCALA</item>
+        <item>VERACRUZ</item>
+        <item>YUCATÁN</item>
+        <item>ZACATECAS</item>
+        <item>NACIDO EN EL EXTRANJERO</item>
+    </string-array>
+</resources>
